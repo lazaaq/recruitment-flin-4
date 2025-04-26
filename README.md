@@ -18,3 +18,4 @@ This project outlines a scalable WordPress hosting setup using AWS services:
 ---
 
 ## Architecture Diagram
+![diagram](https://github.com/user-attachments/assets/78c493f6-3d4e-4604-81f3-68048c5d2429)
